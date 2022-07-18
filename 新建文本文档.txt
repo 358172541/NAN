@@ -1,0 +1,54 @@
+Helplist-59关于我们
+
+	公司介绍
+	仓库资料
+	联系方式
+
+Helplist-62常见问题
+
+	收获注意事项
+	付款方式
+
+Helplist-72海运服务
+
+	海运计算
+
+Helplist-80新手指南
+
+	下单流程
+	支付宝支付
+
+
+list.html?code=abc
+detail.html?code=abc
+
+首页	
+关于我们	list.html?code=about-us
+	为何选择我们	detail.html	why-choose-us
+	承运条款		detail.html
+	隐私政策		detail.html
+	联系我们		detail.html
+物流跟踪
+	海运查询		ordertracking.html
+海运服务
+	海运服务说明	detail.html
+支付方式
+	支付宝支付	detail.html
+	中国银行汇款	detail.html
+常见问题	list.html
+联系我们	detail.html
+派送费查询 bbb.html
+
+快递查询	packagesearch.html
+
+
+
+
+
+
+
+
+
+
+
+
